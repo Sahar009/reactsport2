@@ -1,0 +1,30 @@
+.feature {
+  display: flex;
+  align-items: center;
+  margin-bottom: 2rem;
+}
+
+.feature-icon {
+ color: orange;
+}
+
+.inner-icon {
+  position: relative;
+  margin-right: 2rem;
+}
+
+.feature-text h3 {
+  font-size: 2rem;
+  font-weight: 200;
+  line-height: 1.2;
+  text-transform: uppercase;
+  color: black;
+}
+.feature-text p{
+  font-size: 2rem;
+  
+}
+.result{
+  position: relative;
+ margin-left: 2rem;
+}
